@@ -12,7 +12,7 @@
 
 - Sẽ phải nhớ nhiều lệnh hơn để viết được Batch so với viết Bash
 
-- Phải nhớ quy tắc khi làm file generate test: tuyệt đối không được viết if(fopen) trong file sinh test
+- Phải nhớ quy tắc khi làm file generate test: tuyệt đối không được viết `if(fopen)` trong file sinh test
 
 # Hướng dẫn cách dùng (Đối với Window)
 
@@ -55,6 +55,16 @@ treegenerator.h:   Thư viện sinh test dạng cây (được mình ăn cắp t
 
 ### Cách chạy
 
-Sau khi code xong các file correct.cpp, gen.cpp, my.cpp, checker.cpp, tuỳ vào dạng bài làm, bạn chỉ cần click đúp chuột vào file run.bat hoặc run_with_checker.bat
+Sau khi code xong các file `correct.cpp`, `gen.cpp`, `my.cpp`, `checker.cpp`, tuỳ vào dạng bài làm, bạn chỉ cần click đúp chuột vào file `run.bat` hoặc `run_with_checker.bat`
 
-Riêng file gen.cpp, TUYỆT ĐỐI không được viết if(fopen) hoặc freopen
+Riêng file `gen.cpp`, TUYỆT ĐỐI không được viết `if(fopen)` hoặc `freopen`
+
+### Kiểm tra kết quả
+
+- File input sẽ nằm trong `input.inp`
+
+- File kết quả của bạn sẽ nằm trong `my.out`
+
+- File kết quả đúng sẽ nằm trong `correct.out`
+
+- Nếu bạn dùng `run_with_checker.bat`, Window sẽ hiện `checker log` ngay trên màn hình
