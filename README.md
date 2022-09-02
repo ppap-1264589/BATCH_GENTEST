@@ -46,6 +46,7 @@ Dựa trên các dữ liệu này, checker sẽ kiểm tra xem bài làm của b
 ```
 run.bat:               Batch của Window do bạn tự viết. Dùng trong trường hợp bạn chỉ cần kiểm tra giữa cách làm của bạn và cách làm đúng có sai lệch nhau không
 run_with_checker.bat:  Batch của Window do bạn tự viết. Dùng trong trường hợp bạn cần checker với những bài có thể có nhiều đáp án
+compile.bat:           Batch dùng để định nghĩa cấu hình dịch chương trình
 ```
 
 ```
