@@ -70,3 +70,9 @@ Riêng file `gen.cpp`, TUYỆT ĐỐI không được viết `if(fopen)` hoặc 
 - File kết quả đúng sẽ nằm trong `correct.out`
 
 - Nếu bạn dùng `run_with_checker.bat`, Window sẽ hiện `checker log` ngay trên màn hình
+
+### Ví dụ cụ thể
+
+Các file code trên của mình minh hoạ cho bài toán:
+
+Cho một số `n`, yêu cầu tách `n` thành hai số `a` và `b`, sao cho `a + b = n`
