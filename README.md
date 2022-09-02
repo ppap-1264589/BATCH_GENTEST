@@ -1,3 +1,5 @@
+Tham khảo thêm cách làm bộ test chuẩn [BATCH_CREATE_TEST](https://github.com/ppap-1264589/BATCH_CREATE_TEST)
+
 # BATCH_GENTEST: Cách Stress Test trong các kì thi Online (và cả Offline)
 
 ## Ưu điểm
