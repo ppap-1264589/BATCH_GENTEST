@@ -20,7 +20,7 @@
 
 1. Tích hợp môi trường MinGW và môi trường Window để máy tính hiểu được lệnh compile bằng g++
 
-Tham khảo tại [đây](https://nam.name.vn/huong-dan-bien-sublime-text-thanh-ide-lap-trinh-c-c.html)
+Tham khảo tại [đây](https://nam.name.vn/huong-dan-bien-sublime-text-thanh-ide-lap-trinh-c-c.html#ftoc-heading-3)
 
 2. Nên có kiến thức về ngôn ngữ Batch
 
